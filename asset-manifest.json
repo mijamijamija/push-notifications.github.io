@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/push-notifications.github.io/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/push-notifications.github.io/static/js/main.073b3352.chunk.js",
+    "main.js.map": "/push-notifications.github.io/static/js/main.073b3352.chunk.js.map",
+    "runtime-main.js": "/push-notifications.github.io/static/js/runtime-main.b6f6ecdf.js",
+    "runtime-main.js.map": "/push-notifications.github.io/static/js/runtime-main.b6f6ecdf.js.map",
+    "static/js/2.283997c6.chunk.js": "/push-notifications.github.io/static/js/2.283997c6.chunk.js",
+    "static/js/2.283997c6.chunk.js.map": "/push-notifications.github.io/static/js/2.283997c6.chunk.js.map",
+    "static/js/3.39697a25.chunk.js": "/push-notifications.github.io/static/js/3.39697a25.chunk.js",
+    "static/js/3.39697a25.chunk.js.map": "/push-notifications.github.io/static/js/3.39697a25.chunk.js.map",
+    "index.html": "/push-notifications.github.io/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/push-notifications.github.io/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.283997c6.chunk.js.LICENSE.txt": "/push-notifications.github.io/static/js/2.283997c6.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/push-notifications.github.io/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6f6ecdf.js",
+    "static/js/2.283997c6.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.073b3352.chunk.js"
+  ]
+}
