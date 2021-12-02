@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/push-notifications.github.io/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/push-notifications.github.io/static/js/main.073b3352.chunk.js",
-    "main.js.map": "/push-notifications.github.io/static/js/main.073b3352.chunk.js.map",
+    "main.js": "/push-notifications.github.io/static/js/main.31a7bd5a.chunk.js",
+    "main.js.map": "/push-notifications.github.io/static/js/main.31a7bd5a.chunk.js.map",
     "runtime-main.js": "/push-notifications.github.io/static/js/runtime-main.b6f6ecdf.js",
     "runtime-main.js.map": "/push-notifications.github.io/static/js/runtime-main.b6f6ecdf.js.map",
     "static/js/2.283997c6.chunk.js": "/push-notifications.github.io/static/js/2.283997c6.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.b6f6ecdf.js",
     "static/js/2.283997c6.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.073b3352.chunk.js"
+    "static/js/main.31a7bd5a.chunk.js"
   ]
 }
